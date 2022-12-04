@@ -1,0 +1,54 @@
+.createcard{
+    width: 400px;
+    /* background-color: blueviolet; */
+}
+
+label {
+    float: left;
+}
+.labe{
+    margin-left: 20%;
+    font-size: 1.5em;
+}
+  
+span {
+    display: block;
+    overflow: hidden;
+    padding: 0px 4px 0px 6px;
+}
+  
+.createinput {
+    background-color: #eee;
+    border: none;
+    padding: 6px 8px;
+    margin: 4px 0;
+    width: 300px;
+    border: black solid;
+    border-radius: 25px;
+}
+h1 {
+    text-align: center;
+    font-family: 'Lora', serif;font-weight:700;
+}
+
+.createbutton {
+    border-radius: 20px;
+    border: 1px solid #FF4B2B;
+    background-color: #FF4B2B;
+    color: #FFFFFF;
+    margin-top: 50px;
+    margin-left: 40%;
+    margin-bottom: 50px;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 12px 45px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    transition: transform 80ms ease-in;
+}
+
+.img-fluid{
+    width: 500px;
+    margin-left: 10%;
+}
+/* -------------------------------------------------------------------------------- */
